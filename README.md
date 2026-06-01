@@ -4,8 +4,6 @@ Task Tracking Database is a backend application built using **Node.js**, **Expre
 
 This project demonstrates CRUD operations and database integration commonly used in real-world task management systems.
 
----
-
 ## Features
 
 * Create new tasks
@@ -16,8 +14,6 @@ This project demonstrates CRUD operations and database integration commonly used
 * Store task status and priority
 * MongoDB database integration
 
----
-
 ## Technologies Used
 
 * Node.js
@@ -26,8 +22,6 @@ This project demonstrates CRUD operations and database integration commonly used
 * Mongoose
 * Postman
 * dotenv
-
----
 
 ## Project Structure
 
@@ -99,8 +93,6 @@ MongoDB Connected
 Server running on port 5000
 ```
 
----
-
 ## API Endpoints
 
 ### Create Task
@@ -132,8 +124,7 @@ PUT /api/tasks/:id
 ```http
 DELETE /api/tasks/:id
 
----
-
+```
 ## Testing
 
 All APIs were tested using Postman and verified in MongoDB Compass.
@@ -145,5 +136,3 @@ All APIs were tested using Postman and verified in MongoDB Compass.
 * Update Task
 * Delete Task
 ---
-
-a MongoDB Backend Development Internship Task.
