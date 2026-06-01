@@ -1,7 +1,5 @@
 # Task Tracking Database
 
-## Overview
-
 Task Tracking Database is a backend application built using **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**. It helps manage and track tasks by allowing users to create, view, update, and delete task records.
 
 This project demonstrates CRUD operations and database integration commonly used in real-world task management systems.
